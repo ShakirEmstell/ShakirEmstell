@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShakirEmstell
+- 👋 Hi, I’m Shakir
 - 👀 I’m interested in ... android, kotlin, java, javafx
 - 🌱 I’m currently learning ... android, kotlin, java, javafx
 - 💞️ I’m looking to collaborate on ...
