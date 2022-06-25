@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakir
 - 👀 I’m interested in ... android, kotlin, java, javafx
-- 🌱 I’m currently learning ... android, kotlin, java, javafx
+- 🌱 I’m currently learning ... android, kotlin, java, javafx, compose , fluterr, kmm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shakir.kadakkadan@gmail.com
 
